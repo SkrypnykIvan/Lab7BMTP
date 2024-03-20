@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710931482 source:c:\users\admin4\downloads\bmtp-lab7-skrypnyk\bmtp-lab7-skrypnyk\prj\skrypnyk_task_7_1\main.c
+	<stdio.h>
+	<string.h>
+	<windows.h>
+
